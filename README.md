@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou o Thiago Vivan 😉
 
-<!--
-**thiago-vivan/thiago-vivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ***Minhas informações***
 
-Here are some ideas to get you started:
+- 📖 Estudante de Engenharia de Software pela Universidade de Brasilia(UNB)
+- 🌱 Ainda não tenho uma área especifica preferida. Estou aberto a todos os diferentes projetos.
+- 👯 Atualmente procurando um projeto open source para contribuir.
+- 💻 Sempre gostei de tecnologia mas além disso sou 🎮 apaixonado por games e 👨‍🍳 sou um ótimo cozinheiro por hobby!
+- 🌎 Amante da natureza e muito interessado em projetos que possam ajudá-la
+- ⚡ Estou em busca do meu primeiro estágio!!
+- 📫 Me mande um e-mail! thiago-vivanfsa@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
